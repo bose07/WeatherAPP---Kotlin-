@@ -1,6 +1,6 @@
 # WeatherAPP---Kotlin-
- API , retrofit  , update of weather 
- network services
+ API , retrofit  , update of weather, check weather 
+ network services 
 
 
 
