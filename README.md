@@ -1,5 +1,5 @@
 # WeatherAPP---Kotlin-
- API , retrofit  , update of weather, check weather , temp check
+ API , retrofit  , update of weather, check weather , temparature check
  network services , simple ui
 
 
