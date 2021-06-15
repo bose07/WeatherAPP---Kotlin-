@@ -1,6 +1,6 @@
 # WeatherAPP---Kotlin-
  API , retrofit  , update of weather, check weather , temparature check
- network services , simple ui , data fetching , wasy to use , unique look
+ network services , simple ui , data fetching , wasy to use , unique look , efficient code
 
 
 
